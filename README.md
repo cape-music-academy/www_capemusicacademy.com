@@ -1,2 +1,2 @@
 # www_capemusicacademy.com
-capemusicacademy.com website repository
+Cape Music Academy website repo
